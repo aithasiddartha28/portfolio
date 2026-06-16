@@ -53,4 +53,5 @@ Resume is included in this repository.
 Aitha Siddartha
 
 GitHub: https://github.com/aithasiddartha28
+
 Portfolio: https://aithasiddartha28.github.io/portfolio/
